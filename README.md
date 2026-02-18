@@ -15,3 +15,5 @@ project
 --------08-batch-test.py
 --------09-stream-test.py
 --------10-producer.py
+![ChatGPT Image Feb 18, 2026, 10_19_09 AM](https://github.com/user-attachments/assets/b0839241-4213-4827-beb9-a01253f35e80)
+{"detail":"Invalid signature or expired URL"}
